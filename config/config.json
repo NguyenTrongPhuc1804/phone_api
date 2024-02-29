@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root2",
+    "password": "123456",
+    "database": "phone_api",
+    "host": "3.104.174.97",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root2",
+    "password": "123456",
+    "database": "phone_api",
+    "host": "3.104.174.97",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root2",
+    "password": "123456",
+    "database": "phone_api",
+    "host": "3.104.174.97",
+    "dialect": "mysql"
+  }
+}
